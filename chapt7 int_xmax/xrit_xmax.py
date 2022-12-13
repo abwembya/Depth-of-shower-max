@@ -1,10 +1,9 @@
 import numpy as np
-from matplotlib import cbook
-import matplotlib.colors
 import matplotlib.pyplot as plt
 import mplhep as hep
-from mpl_toolkits.axes_grid1 import ImageGrid
-
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+hep.style.use("ATLAS")
 #plot the xrit vs xmax for differet sigma 
 
 xxmaxs6 = np.genfromtxt("xmaxs",delimiter=",", dtype=float)
@@ -39,4 +38,5 @@ plt.ylim(500, 1000)
 plt.xlim(600, 1000)
 fig.supxlabel('x$_{max} ~[g/cm^2]$',fontsize=30)
 fig.supylabel('x$_{max}~rit$',fontsize=30)
+plt.savefig('xmaxs.png')
 plt.show()

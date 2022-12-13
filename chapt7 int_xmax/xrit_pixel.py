@@ -4,7 +4,9 @@ from matplotlib import cbook
 import matplotlib.colors
 import matplotlib.pyplot as plt
 import mplhep as hep
-from mpl_toolkits.axes_grid1 import ImageGrid
+import os
+hep.set_style("ATLAS")
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 #plots the integrated power in the pixels as a function of the sigma 
 
@@ -21,4 +23,5 @@ for ax in axes.flat:
 fig.colorbar(im, ax=axes.ravel().tolist(),label='amplitude')
 fig.supxlabel('Rit pixle',fontsize=20)
 fig.supylabel('Rit pixel',fontsize=20)
+plt.savefig('cmaps.png')
 plt.show()
