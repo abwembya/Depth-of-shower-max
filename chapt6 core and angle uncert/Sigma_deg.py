@@ -4,7 +4,7 @@ import mplhep as hep
 import os
 plt.style.use(hep.style.ATLAS)
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
-delta_theta=np.loadtxt('delta_theta.npy')
+delta_theta=np.loadtxt('sigma_theta.npy')
 
 zenith = np.linspace(45,85,10)
 plt.plot(zenith,delta_theta[0],color='b',label='10')
