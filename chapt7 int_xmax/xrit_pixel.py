@@ -17,11 +17,15 @@ fig, axes = plt.subplots(nrows=2, ncols=3,
                         figsize=([12, 9]), constrained_layout=True,sharex=True,sharey=True)
 i=0
 for ax in axes.flat:
-    im =  ax.hexbin(appndata[i][0],appndata[i][1],C=appndata[i][2],gridsize=18, vmin=0,vmax=1.8*10**11)
+    im =  ax.hexbin(appndata[i][0],appndata[i][1],C=appndata[i][2],gridsize=18, vmin=0,vmax=2.5*10**11)
+    #im = ax.scatter(appndata[i][0],appndata[i][1],c=appndata[i][2],s=5000,marker='s',vmin=0,vmax=2.5*10**11)
     ax.set_title('gauss(0,%d)'%jitter[i])
     i+=1
 fig.colorbar(im, ax=axes.ravel().tolist(),label='amplitude')
 fig.supxlabel('Rit pixle',fontsize=20)
 fig.supylabel('Rit pixel',fontsize=20)
+fig.suptitle('Integrated power in the pixels as a function of the sigma',fontsize=20)
+plt.xlim(-700,700)
+plt.ylim(-700,700)
 plt.savefig('cmaps.png')
 plt.show()
