@@ -26,7 +26,7 @@ for ax in axes.flat:
         m, b = np.polyfit(subplots[j][0::2], subplots[j][1::2], deg=1)
         ax.axline(xy1=(0, b), slope=m, c='b' ,label=f'$y = {m:.2f}x {b:+.2f}$',alpha=0.2)
         ax.text(0.05, 0.95, f'$y = {m:.2f}x {b:+.2} $', transform=ax.transAxes, fontsize=14, verticalalignment='top')
-        ax.set_title('gauss(0,%d)'%gauss[j][1])
+        ax.set_title('Jitter=%d ns'%gauss[j][1])
         ax.grid()
         if max(np.abs(subplots[j][::2]-subplots[j][::-2][::-1]))>zmax:
                 zmax=max(np.abs(subplots[j][::2]-subplots[j][::-2][::-1]))
@@ -36,7 +36,7 @@ for ax in axes.flat:
 #fig.colorbar(im, ax=axes.ravel().tolist(),label="|x$_{max}$ - x$_{max} rit$|")
 plt.ylim(500, 1000)
 plt.xlim(600, 1000)
-fig.supxlabel('x$_{max} ~[g/cm^2]$',fontsize=30)
-fig.supylabel('x$_{max}~rit$',fontsize=30)
+fig.supxlabel('X$_{\mathrm{max}} ~[g/cm^2]$',fontsize=30)
+fig.supylabel('X$_{\mathrm{rit}}$',fontsize=30)
 plt.savefig('xmaxs.png')
 plt.show()

@@ -37,17 +37,18 @@ for ax in axes.flat:
         ax.grid()
         j+=1
 #fig.colorbar(im, ax=axes.ravel().tolist(),label="|x$_{max}$ - x$_{max} rit$|")
-fig.supxlabel('x$_{max} ~[g/cm^2]$',fontsize=30)
-fig.supylabel('Spread',fontsize=30)
-plt.savefig('rms_xrit.png')
-plt.show()
+#fig.supxlabel('x$_{max} ~[g/cm^2]$',fontsize=30)
+#fig.supylabel('Spread',fontsize=30)
+#plt.savefig('rms_xrit.png')
+#plt.show()
 
 
 plt.figure( dpi=100)
 plt.plot([0,1,3,5,7,9],rms,'o')
 plt.xlim(-0.2, 10)
+plt.yscale('log') 
 plt.xlabel('sigma $\sigma_t$ [ns]')
-plt.ylabel('RMS of rit spread')
+plt.ylabel('RMS X$_{rit}$ [g/cm$^2$]')
 plt.grid( linestyle='--', linewidth=0.5)
 plt.savefig('rms.png')
 plt.show()
