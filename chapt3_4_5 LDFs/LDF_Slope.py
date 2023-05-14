@@ -6,14 +6,16 @@ import mplhep
 mplhep.style.use('ATLAS')
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
-deg_88a=np.load('deg_88a.npy',allow_pickle=True)#input data
+data=np.load('specIdx_deg_88_150MHZ.npy',allow_pickle=True)
+data=data[1:,:]
 plt.figure(dpi=150)
-for i in range(1,deg_88a.shape[0]):
-    plt.plot(deg_88a[i,1],deg_88a[i,2],color=cm.nipy_spectral((deg_88a[0:,0][i]-min(deg_88a[0:,0]))/(max(deg_88a[0:,0])+20-min(deg_88a[0:,0]))) ,label='%.2f'%deg_88a[i,0],marker='o')  
-plt.legend( prop={'size': 11},title='Xmax',title_fontsize=13,bbox_to_anchor=(1, 1.1), loc='upper left')
-plt.xlabel('Cherenkov redii [au]',fontsize=13)
-plt.ylabel('slope$_{50MHz}$ [$\mu V$/m/GHz]',fontsize=13)
-plt.grid( linestyle='--', linewidth=0.5 ,color='grey',alpha=0.5)
-plt.xlim(-2,2)
+for i in range(1,len(data)):
+    plt.errorbar(data[i,1],data[i,2],yerr=data[i,3],color=cm.nipy_spectral((data[0:,0][i]-min(data[0:,0]))/(max(data[0:,0])+20-min(data[0:,0]))),label='%.2f'%data[i,0],marker='o',capsize=2)
+plt.ticklabel_format(axis='y', style='sci', scilimits=(2,2))
+plt.grid( linestyle='--', linewidth=1)
+plt.xlabel('x [m]/d$_{750}$',fontsize=20)
+plt.ylabel('b$_{%d MHz}[GHz]^{-1}$'%(50),fontsize=20)
+plt.legend( prop={'size': 15},title='X$_{max}$ $g/cm^2$',title_fontsize=17,bbox_to_anchor=(1, 1.1), loc='upper left')
+#plt.xlim(-2,2)
 #plt.savefig('deg_50a.png')
 plt.show()
