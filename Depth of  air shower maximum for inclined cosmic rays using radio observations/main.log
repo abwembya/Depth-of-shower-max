@@ -1,0 +1,946 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.6)  13 JUN 2023 11:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-07>
+
+LaTeX Info: File `example.eps' already exists on the system.
+            Not generating it from this source.
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+(svjour3.cls
+Document Class: svjour3 2010/11/25 v3.3 
+LaTeX document class for Springer journals
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip48
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(svepjc3.clo
+File: svepjc3.clo 2011/08/26 v1.2 style option for the EPJC journal
+
+SVJour Class option: svepjc3.clo for EPJC journal
+)
+Class Springer-SVJour3 Info: extra/valid Springer sub-package (-> *.clo) 
+(Springer-SVJour3)           not found in option list of \documentclass
+(Springer-SVJour3)           - autoactivating "global" style.
+ (svglov3.clo
+File: svglov3.clo 2009/12/18 v3.2 style option for standardised journals
+
+SVJour Class option: svglov3.clo for standardised journals
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
+\logodepth=\dimen140
+\headerboxheight=\dimen141
+\betweenumberspace=\dimen142
+\aftertext=\dimen143
+\headlineindent=\dimen144
+\c@inst=\count185
+\c@auth=\count186
+\instindent=\dimen145
+\authrun=\box51
+\authorrunning=\toks16
+\titrun=\box52
+\titlerunning=\toks17
+\combirun=\box53
+\c@lastpage=\count187
+\rubricwidth=\dimen146
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\spthmsep=\dimen147
+\c@theorem=\count193
+\c@case=\count194
+\c@conjecture=\count195
+\c@corollary=\count196
+\c@definition=\count197
+\c@example=\count198
+\c@exercise=\count199
+\c@lemma=\count266
+\c@note=\count267
+\c@problem=\count268
+\c@property=\count269
+\c@proposition=\count270
+\c@question=\count271
+\c@solution=\count272
+\c@remark=\count273
+\c@figure=\count274
+\c@table=\count275
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\figcapgap=\dimen148
+\tabcapgap=\dimen149
+\figgap=\dimen150
+\bibindent=\dimen151
+\@tempcntc=\count276
+) (svepjc3.clo
+\c@thanks=\count277
+\c@addressref=\count278
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+) (aas_macros.sty)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count279
+\calc@Bcount=\count280
+\calc@Adimen=\dimen154
+\calc@Bdimen=\dimen155
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count281
+\calc@Cskip=\skip53
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen156
+))
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen157
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count282
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count283
+\leftroot@=\count284
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count285
+\DOTSCASE@=\count286
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count287
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count288
+\dotsspace@=\muskip16
+\c@parentequation=\count289
+\dspbrk@lvl=\count290
+\tag@help=\toks20
+\row@=\count291
+\column@=\count292
+\maxfields@=\count293
+\andhelp@=\toks21
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks22
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+\g_MT_multlinerow_int=\count294
+\l_MT_multwidth_dim=\dimen165
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen166
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen167
+\l_MT_above_intertext_sep=\dimen168
+\l_MT_below_intertext_sep=\dimen169
+\l_MT_above_shortintertext_sep=\dimen170
+\l_MT_below_shortintertext_sep=\dimen171
+\xmathstrut@box=\box56
+\xmathstrut@dim=\dimen172
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box57
+\UL@hyphenbox=\box58
+\UL@skip=\skip58
+\UL@hook=\toks24
+\UL@height=\dimen173
+\UL@pe=\count295
+\UL@pixel=\dimen174
+\ULC@box=\box59
+Package: ulem 2019/11/18
+\ULdepth=\dimen175
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-02-07 L3 programming layer (loader) 
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count296
+\l__pdf_internal_box=\box60
+))
+Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count297
+\l__lipsum_a_int=\count298
+\l__lipsum_b_int=\count299
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.s
+ty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen176
+\captionmargin=\dimen177
+\caption@leftmargin=\dimen178
+\caption@rightmargin=\dimen179
+\caption@width=\dimen180
+\caption@indent=\dimen181
+\caption@parindent=\dimen182
+\caption@hangindent=\dimen183
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\captionstyle \ifx \@ca
+ptype \fig@type \vskip \figcapgap \fi \setbox \@tempboxa \hbox {{\floatlegendst
+yle #1\floatcounterend }\capstrut #2}\ifdim \wd \@tempboxa >\hsize {\floatlegen
+dstyle #1\floatcounterend }\capstrut #2\par \else \hbox to\hsize {\leftlegendgl
+ue \unhbox \@tempboxa \hfil }\fi \ifx \@captype \fig@type \else \vskip \tabcapg
+ap \fi  on input line 1176.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count300
+\c@continuedfloat=\count301
+)
+\c@subfigure=\count302
+\c@subtable=\count303
+) (C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count304
+\float@exts=\toks25
+\float@box=\box61
+\@float@everytoks=\toks26
+\@floatcapt=\box62
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count305
+
+
+Package multicol Warning: May not work with the twocolumn option on input line 
+143.
+
+\mult@box=\box63
+\multicol@leftmargin=\dimen184
+\c@unbalance=\count306
+\c@collectmore=\count307
+\doublecol@number=\count308
+\multicoltolerance=\count309
+\multicolpretolerance=\count310
+\full@width=\dimen185
+\page@free=\dimen186
+\premulticols=\dimen187
+\postmulticols=\dimen188
+\multicolsep=\skip59
+\multicolbaselineskip=\skip60
+\partial@page=\box64
+\last@line=\box65
+\maxbalancingoverflow=\dimen189
+\mult@rightbox=\box66
+\mult@grightbox=\box67
+\mult@firstbox=\box68
+\mult@gfirstbox=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\c@minrows=\count311
+\c@columnbadness=\count312
+\c@finalcolumnbadness=\count313
+\last@try=\dimen190
+\multicolovershoot=\dimen191
+\multicolundershoot=\dimen192
+\mult@nat@firstbox=\box106
+\colbreak@box=\box107
+\mc@col@check@num=\count314
+) (C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks27
+\footnotemargin=\dimen193
+\@outputbox@depth=\dimen194
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+) (main.aux
+
+LaTeX Warning: Label `fig:gramm3' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count315
+\scratchdimen=\dimen195
+\scratchbox=\box108
+\nofMPsegments=\count316
+\nofMParguments=\count317
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count318
+\MPscratchDim=\dimen196
+\MPnumerator=\count319
+\makeMPintoPDFobject=\count320
+\everyMPtoPDFconversion=\toks29
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+ (C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 119
+.
+ (C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 119
+.
+
+(C:\Users\antho\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 119.
+
+
+SVJour3 Warning: Title too long for running head.
+Please supply a shorter form with \titlerunning prior to \maketitle
+
+Overfull \hbox (5.25952pt too wide) in paragraph at lines 123--124
+[]\OT1/cmr/m/n/10 The study of Ultra-High-Energy Cos-mic Rays
+ []
+
+
+Overfull \hbox (0.73067pt too wide) in paragraph at lines 123--124
+\OT1/cmr/m/n/10 At these zenith an-gles, the ra-dio foot-print be-comes large
+ []
+
+
+Overfull \hbox (0.1196pt too wide) in paragraph at lines 123--124
+\OT1/cmr/m/n/10 which pro-vides in-for-ma-tion on the depth of shower max-
+ []
+
+
+Overfull \hbox (16.59912pt too wide) in paragraph at lines 130--133
+\OT1/cmr/m/n/10 shower sim-u-la-tions. We then anal-yse the X$[]$dependencies
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{C:/Users/antho/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+]
+
+LaTeX Warning: Citation `united1976u' on page 2 undefined on input line 135.
+
+
+Overfull \hbox (0.80011pt too wide) in paragraph at lines 135--136
+\OT1/cmr/m/n/10 We em-ployed the U.S. stan-dard at-mo-sphere [\OT1/cmr/bx/n/10 
+?\OT1/cmr/m/n/10 ] to model
+ []
+
+
+Underfull \vbox (badness 4132) has occurred while \output is active []
+
+<gramm3.png, id=16, 704.6325pt x 421.3341pt>
+File: gramm3.png Graphic file (type png)
+<use gramm3.png>
+Package pdftex.def Info: gramm3.png  used on input line 142.
+(pdftex.def)             Requested size: 247.5pt x 147.98988pt.
+
+Overfull \hbox (8.53583pt too wide) in paragraph at lines 142--143
+[][] 
+ []
+
+
+LaTeX Warning: Citation `Aab_2014' on page 2 undefined on input line 153.
+
+
+Overfull \hbox (1.78621pt too wide) in paragraph at lines 153--154
+\OT1/cmr/m/n/10 depth mea-sure-ment. We then cal-cu-lated the cor-re-spond-
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[2 <./gramm3.png>]
+Overfull \hbox (26.8414pt too wide) detected at line 156
+$\OML/cmm/m/it/10 ^^A[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X; ^^A[]\OT1/cmr/m/n/1
+0 ) = []$  
+ []
+
+<gramm5.png, id=23, 541.3023pt x 411.939pt>
+File: gramm5.png Graphic file (type png)
+<use gramm5.png>
+Package pdftex.def Info: gramm5.png  used on input line 164.
+(pdftex.def)             Requested size: 232.6506pt x 177.04858pt.
+<gramm6.png, id=24, 539.01375pt x 407.121pt>
+File: gramm6.png Graphic file (type png)
+<use gramm6.png>
+Package pdftex.def Info: gramm6.png  used on input line 169.
+(pdftex.def)             Requested size: 232.6506pt x 175.72331pt.
+
+Overfull \hbox (2.40094pt too wide) in paragraph at lines 173--174
+\OT1/cmr/m/n/10 quired on $\OML/cmm/m/it/10 r[]$ \OT1/cmr/m/n/10 and $\OML/cmm/
+m/it/10 ^^R$ \OT1/cmr/m/n/10 respectively, to at-tain a $\OMS/cmsy/m/n/10 ^^F$\
+OT1/cmr/m/n/10 10g/cm$[]$,
+ []
+
+
+Overfull \hbox (3.10802pt too wide) in paragraph at lines 173--174
+\OMS/cmsy/m/n/10 ^^F$\OT1/cmr/m/n/10 ,30g/cm$[]$,$\OMS/cmsy/m/n/10 ^^F$ \OT1/cm
+r/m/n/10 50g/cm$[]$and $\OMS/cmsy/m/n/10 ^^F$\OT1/cmr/m/n/10 100g/cm$[]$deviati
+on on an
+ []
+
+<MagicA.png, id=25, 241.33018pt x 178.09393pt>
+File: MagicA.png Graphic file (type png)
+<use MagicA.png>
+Package pdftex.def Info: MagicA.png  used on input line 179.
+(pdftex.def)             Requested size: 238.96417pt x 176.34883pt.
+
+Overfull \hbox (6.81989pt too wide) in paragraph at lines 187--188
+\OT1/cmr/m/n/10 X$[]$of 750g/cm$[]$($\OML/cmm/m/it/10 r[]$\OT1/cmr/m/n/10 ) to 
+these zenith an-gles are 125m
+ []
+
+
+Underfull \vbox (badness 3219) has occurred while \output is active []
+
+ [3 <./gramm5.png> <./gramm6.png>]
+
+LaTeX Warning: Citation `2020SCPMA..6319501A' on page 4 undefined on input line
+ 191.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<50zenLDF.png, id=31, 677.4108pt x 424.9476pt>
+File: 50zenLDF.png Graphic file (type png)
+<use 50zenLDF.png>
+Package pdftex.def Info: 50zenLDF.png  used on input line 196.
+(pdftex.def)             Requested size: 222.74849pt x 139.72737pt.
+<50zenLDF200.png, id=32, 677.4108pt x 424.9476pt>
+File: 50zenLDF200.png Graphic file (type png)
+<use 50zenLDF200.png>
+Package pdftex.def Info: 50zenLDF200.png  used on input line 197.
+(pdftex.def)             Requested size: 222.74849pt x 139.72737pt.
+<82zenLDF.png, id=33, 668.2566pt x 424.9476pt>
+File: 82zenLDF.png Graphic file (type png)
+<use 82zenLDF.png>
+Package pdftex.def Info: 82zenLDF.png  used on input line 199.
+(pdftex.def)             Requested size: 222.74849pt x 141.64668pt.
+<82zenLDF200.png, id=34, 668.2566pt x 424.9476pt>
+File: 82zenLDF200.png Graphic file (type png)
+<use 82zenLDF200.png>
+Package pdftex.def Info: 82zenLDF200.png  used on input line 200.
+(pdftex.def)             Requested size: 222.74849pt x 141.64668pt.
+<88zenLDF.png, id=35, 658.6206pt x 424.9476pt>
+File: 88zenLDF.png Graphic file (type png)
+<use 88zenLDF.png>
+Package pdftex.def Info: 88zenLDF.png  used on input line 202.
+(pdftex.def)             Requested size: 222.74849pt x 143.71513pt.
+<88zenLDF200.png, id=36, 668.2566pt x 424.9476pt>
+File: 88zenLDF200.png Graphic file (type png)
+<use 88zenLDF200.png>
+Package pdftex.def Info: 88zenLDF200.png  used on input line 203.
+(pdftex.def)             Requested size: 222.74849pt x 141.64668pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation ` ' on page 4 undefined on input line 210.
+
+
+Overfull \hbox (33.65475pt too wide) in paragraph at lines 210--211
+[]\OT1/cmr/m/n/10 Plots (a) and (b) in Fig. 5[] demon-strate the X$[]$dependenc
+e
+ []
+
+<spectra2.png, id=37, 686.3241pt x 403.5075pt>
+File: spectra2.png Graphic file (type png)
+<use spectra2.png>
+Package pdftex.def Info: spectra2.png  used on input line 217.
+(pdftex.def)             Requested size: 247.5pt x 145.50887pt.
+<spectra.png, id=38, 679.5789pt x 403.5075pt>
+File: spectra.png Graphic file (type png)
+<use spectra.png>
+Package pdftex.def Info: spectra.png  used on input line 218.
+(pdftex.def)             Requested size: 247.5pt x 146.95576pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[4 <./MagicA.png>]
+
+LaTeX Warning: Citation `Jansen:2016sjo' on page 5 undefined on input line 230.
+
+
+<spec_Indx50_50.png, id=43, 687.16725pt x 423.984pt>
+File: spec_Indx50_50.png Graphic file (type png)
+<use spec_Indx50_50.png>
+Package pdftex.def Info: spec_Indx50_50.png  used on input line 235.
+(pdftex.def)             Requested size: 222.74849pt x 137.43733pt.
+<spec_Indx50_150.png, id=44, 687.16725pt x 423.984pt>
+File: spec_Indx50_150.png Graphic file (type png)
+<use spec_Indx50_150.png>
+Package pdftex.def Info: spec_Indx50_150.png  used on input line 236.
+(pdftex.def)             Requested size: 222.74849pt x 137.43733pt.
+<spec_Indx82_50.png, id=45, 673.3155pt x 423.984pt>
+File: spec_Indx82_50.png Graphic file (type png)
+<use spec_Indx82_50.png>
+Package pdftex.def Info: spec_Indx82_50.png  used on input line 238.
+(pdftex.def)             Requested size: 222.74849pt x 140.25803pt.
+<spec_Indx82_150.png, id=46, 673.3155pt x 423.984pt>
+File: spec_Indx82_150.png Graphic file (type png)
+<use spec_Indx82_150.png>
+Package pdftex.def Info: spec_Indx82_150.png  used on input line 239.
+(pdftex.def)             Requested size: 222.74849pt x 140.25803pt.
+<spec_Indx88_50.png, id=47, 673.3155pt x 423.984pt>
+File: spec_Indx88_50.png Graphic file (type png)
+<use spec_Indx88_50.png>
+Package pdftex.def Info: spec_Indx88_50.png  used on input line 241.
+(pdftex.def)             Requested size: 222.74849pt x 140.25803pt.
+<spec_Indx88_150.png, id=48, 673.3155pt x 423.984pt>
+File: spec_Indx88_150.png Graphic file (type png)
+<use spec_Indx88_150.png>
+Package pdftex.def Info: spec_Indx88_150.png  used on input line 242.
+(pdftex.def)             Requested size: 222.74849pt x 140.25803pt.
+[5 <./50zenLDF.png> <./50zenLDF200.png> <./82zenLDF.png> <./82zenLDF200.png> <.
+/88zenLDF.png> <./88zenLDF200.png>]
+<plt_axis.png, id=59, 622.9674pt x 546.843pt>
+File: plt_axis.png Graphic file (type png)
+<use plt_axis.png>
+Package pdftex.def Info: plt_axis.png  used on input line 259.
+(pdftex.def)             Requested size: 148.50151pt x 130.35217pt.
+<long_pow.png, id=60, 470.2368pt x 408.5664pt>
+File: long_pow.png Graphic file (type png)
+<use long_pow.png>
+Package pdftex.def Info: long_pow.png  used on input line 259.
+(pdftex.def)             Requested size: 148.50151pt x 129.02327pt.
+<XvXrit.png, id=61, 486.01575pt x 421.575pt>
+File: XvXrit.png Graphic file (type png)
+<use XvXrit.png>
+Package pdftex.def Info: XvXrit.png  used on input line 259.
+(pdftex.def)             Requested size: 148.50151pt x 128.81497pt.
+<plt_axis_200.png, id=62, 622.9674pt x 546.843pt>
+File: plt_axis_200.png Graphic file (type png)
+<use plt_axis_200.png>
+Package pdftex.def Info: plt_axis_200.png  used on input line 261.
+(pdftex.def)             Requested size: 148.50151pt x 130.35217pt.
+<long_pow_grand.png, id=63, 470.2368pt x 408.5664pt>
+File: long_pow_grand.png Graphic file (type png)
+<use long_pow_grand.png>
+Package pdftex.def Info: long_pow_grand.png  used on input line 261.
+(pdftex.def)             Requested size: 148.50151pt x 129.02327pt.
+<XvXrit_2.png, id=64, 486.01575pt x 421.575pt>
+File: XvXrit_2.png Graphic file (type png)
+<use XvXrit_2.png>
+Package pdftex.def Info: XvXrit_2.png  used on input line 261.
+(pdftex.def)             Requested size: 148.50151pt x 128.81497pt.
+
+Overfull \hbox (13.0012pt too wide) in paragraph at lines 269--270
+\OT1/cmr/m/n/10 Root-mean-square (RMS) of the re-con-structed X$[]$(X$[]$)
+ []
+
+<rms_rita2.png, id=65, 539.1342pt x 406.1574pt>
+File: rms_rita2.png Graphic file (type png)
+<use rms_rita2.png>
+Package pdftex.def Info: rms_rita2.png  used on input line 273.
+(pdftex.def)             Requested size: 247.5pt x 186.45662pt.
+
+Overfull \hbox (8.53583pt too wide) in paragraph at lines 273--274
+ [][] 
+ []
+
+
+Overfull \hbox (4.7175pt too wide) in paragraph at lines 277--278
+\OT1/cmr/m/n/10 5ns, there is a no-table lin-ear cor-re-la-tion be-tween X$[]$a
+nd
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[6 <./spectra2.png> <./spectra.png>]
+Overfull \hbox (27.85643pt too wide) in paragraph at lines 281--284
+\OT1/cmr/m/n/10 cally, in sparse ar-ray se-tups, to achieve a $\OMS/cmsy/m/n/10
+ ^^F$ \OT1/cmr/m/n/10 10g/cm$[]$resolution
+ []
+
+
+Overfull \hbox (12.48798pt too wide) in paragraph at lines 285--286
+\OT1/cmr/m/n/10 precision mea-sure-ments of X$[]$even with sev-eral nanosec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./spec_Indx50_50.png> <./spec_Indx50_150.png> <./spec_Indx82_50.png> <./sp
+ec_Indx82_150.png> <./spec_Indx88_50.png> <./spec_Indx88_150.png>]
+Underfull \vbox (badness 5548) has occurred while \output is active []
+
+
+Overfull \hbox (1.20183pt too wide) in paragraph at lines 287--289
+\OT1/cmr/m/n/10 A sig-nif-i-cant lim-i-ta-tion of the ra-dio in-ter-fer-o-met-r
+ic tech-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[][]
+ []
+
+[8 <./plt_axis.png> <./long_pow.png> <./XvXrit.png> <./plt_axis_200.png> <./lon
+g_pow_grand.png> <./XvXrit_2.png> <./rms_rita2.png>] (main.bbl
+Underfull \hbox (badness 2245) in paragraph at lines 23--26
+[]\OT1/cmr/m/n/8.5 K.D. de Vries, A.M. van den Berg, O. Scholten,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--33
+[]\OT1/cmr/m/n/8.5 K.D. de Vries, O. Scholten, K. Werner, As-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--33
+\OT1/cmr/m/n/8.5 tropar-ti-cle Physics \OT1/cmr/bx/n/8.5 45\OT1/cmr/m/n/8.5 , 2
+3 (2013).  DOI 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--33
+\OT1/cmr/m/n/8.5 https://doi.org/10.1016/j.astropartphys.2013.02.003.
+ []
+
+
+Overfull \hbox (78.01558pt too wide) in paragraph at lines 28--33
+\OT1/cmr/m/n/8.5 URL https://www.sciencedirect.com/science/article/pii/S0927650
+513000297 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
+\OT1/cmr/m/n/8.5 T. Huege, A. Nelles, J.P. Rachen, L. Ros-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--40
+\OT1/cmr/m/n/8.5 setto, P. Schel-lart, O. Scholten, S. ter Veen,
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 35--40
+\OT1/cmr/m/n/8.5 70 (2016).  DOI 10.1038/nature16976.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+[]\OT1/cmr/m/n/8.5 F. Schl^^?uter, T. Huege, Jour-nal of Cos-mol-ogy
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 46--50
+\OT1/cmr/m/n/8.5 and As-tropar-ti-cle Physics \OT1/cmr/bx/n/8.5 2023\OT1/cmr/m/
+n/8.5 (01), 008 (2023).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+\OT1/cmr/m/n/8.5 DOI 10.1088/1475-7516/2023/01/008.  URL
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 52--54
+[]\OT1/cmr/m/n/8.5 S. Grebe, P.A. Col-lab-o-ra-tion, (2013).  DOI 
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 56--59
+[]\OT1/cmr/m/n/8.5 J. Alvarez-Muniz, W. Car-valho Jr., E. Zas, As-
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 56--59
+\OT1/cmr/m/n/8.5 tropar-ti-cle Physics \OT1/cmr/bx/n/8.5 35\OT1/cmr/m/n/8.5 (6)
+, 325 (2012).  DOI 
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 61--65
+[]\OT1/cmr/m/n/8.5 F. Riehn, R. En-gel, A. Fe-dynitch, T.K. Gaisser,
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 61--65
+\OT1/cmr/m/n/8.5 T. Stanev, Phys. Rev. D \OT1/cmr/bx/n/8.5 102\OT1/cmr/m/n/8.5 
+, 063002 (2020).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--65
+\OT1/cmr/m/n/8.5 DOI 10.1103/PhysRevD.102.063002.  URL
+ []
+
+) [9
+
+] (main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7447 strings out of 476339
+ 131020 string characters out of 5788120
+ 1868340 words of memory out of 5000000
+ 27733 multiletter control sequences out of 15000+600000
+ 522376 words of font info for 71 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,13n,77p,2063b,367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/antho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Users/antho/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Users/antho/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx7.pfb><C:/Users/antho/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/antho/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/antho/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/antho/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/antho/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
+/antho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C
+:/Users/antho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7
+.pfb><C:/Users/antho/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr8.pfb><C:/Users/antho/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Users/antho/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmsy7.pfb><C:/Users/antho/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (9 pages, 3254925 bytes).
+PDF statistics:
+ 152 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+

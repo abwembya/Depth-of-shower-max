@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI \discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI \discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{ALLAN1966}
+H.R. ALLAN, J.K. JONES, Nature \textbf{212}, 129 (1966).
+\newblock \doi{10.1038/212129a0}
+
+\bibitem{Huege2014}
+T.~Huege,  \textbf{44}, 520 (2014).
+\newblock \doi{10.1007/s13538-014-0226-6}
+
+\bibitem{ALVAREZMUNIZ201429}
+J.~Alvarez-Muñiz, W.R. Carvalho, H.~Schoorlemmer, E.~Zas, Astroparticle
+  Physics \textbf{59}, 29  (2014).
+\newblock \doi{https://doi.org/10.1016/j.astropartphys.2014.04.004}
+
+\bibitem{2011PhRvL.107f1101D}
+K.D. {de Vries}, A.M. {van den Berg}, O.~{Scholten}, K.~{Werner}, \prl
+  \textbf{107}(6), 061101 (2011).
+\newblock \doi{10.1103/PhysRevLett.107.061101}
+
+\bibitem{DEVRIES201323}
+K.D. {de Vries}, O.~Scholten, K.~Werner, Astroparticle Physics \textbf{45}, 23
+  (2013).
+\newblock \doi{https://doi.org/10.1016/j.astropartphys.2013.02.003}.
+\newblock
+  \urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0927650513000297}
+
+\bibitem{LOFARNATURE}
+S.~Buitink, A.~Corstanje, H.~Falcke, J.R. H{\"o}randel, T.~Huege, A.~Nelles,
+  J.P. Rachen, L.~Rossetto, P.~Schellart, O.~Scholten, S.~ter Veen, S.~Thoudam,
+  T.N.G. Trinh~(\emph{et al}), Nature \textbf{531}(7592), 70 (2016).
+\newblock \doi{10.1038/nature16976}.
+\newblock \urlprefix\url{https://doi.org/10.1038/nature16976}
+
+\bibitem{2018JCAP...10..026A}
+A.~{Aab \emph{et al}}, \jcap \textbf{2018}(10), 026 (2018).
+\newblock \doi{10.1088/1475-7516/2018/10/026}
+
+\bibitem{Schlueter2023}
+F.~Schlüter, T.~Huege, Journal of Cosmology and Astroparticle Physics
+  \textbf{2023}(01), 008 (2023).
+\newblock \doi{10.1088/1475-7516/2023/01/008}.
+\newblock \urlprefix\url{https://dx.doi.org/10.1088/1475-7516/2023/01/008}
+
+\bibitem{Grebe2013}
+S.~Grebe, P.A. Collaboration,   (2013).
+\newblock \doi{10.1063/1.4807524}
+
+\bibitem{ZHAireS}
+J.~Alvarez-Muniz, W.~Carvalho~Jr., E.~Zas, Astroparticle Physics
+  \textbf{35}(6), 325 (2012).
+\newblock \doi{10.1016/j.astropartphys.2011.10.005}
+
+\bibitem{Riehn2020}
+F.~Riehn, R.~Engel, A.~Fedynitch, T.K. Gaisser, T.~Stanev, Phys. Rev. D
+  \textbf{102}, 063002 (2020).
+\newblock \doi{10.1103/PhysRevD.102.063002}.
+\newblock \urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.102.063002}
+
+\bibitem{Schoorlemmer2021}
+H.~Schoorlemmer, W.R. Carvalho, The European Physical Journal C \textbf{81}(12)
+  (2021).
+\newblock \doi{10.1140/epjc/s10052-021-09925-9}
+
+\end{thebibliography}

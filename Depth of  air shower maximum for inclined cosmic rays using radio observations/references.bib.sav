@@ -1,0 +1,663 @@
+@ARTICLE{TUNKA-REX,
+       author = {{Bezyazeekov}, P.~A. and {Budnev}, N.~M. and {Gress}, O.~A. and
+         {Haungs}, A. and {Hiller}, R. and {Huege}, T. and {Kazarina}, Y. and
+         {Kleifges}, M. and {Konstantinov}, E.~N. and {Korosteleva}, E.~E. and
+         {Kostunin}, D. and {Kr{\"o}mer}, O. and {Kuzmichev}, L.~A. and
+         {Levinson}, E. and {Lubsandorzhiev}, N. and {Mirgazov}, R.~R. and
+         {Monkhoev}, R. and {Pakhorukov}, A. and {Pankov}, L. and
+         {Prosin}, V.~V. and {Rubtsov}, G.~I. and {R{\"u}hle}, C. and
+         {Schr{\"o}der}, F.~G. and {Wischnewski}, R. and {Zagorodnikov}, A.},
+        title = "{Measurement of cosmic-ray air showers with the Tunka Radio Extension (Tunka-Rex)}",
+      journal = {Nuclear Instruments and Methods in Physics Research A},
+     keywords = {Tunka-Rex, Cosmic ray, Air shower, Radio detection, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = 2015,
+        month = dec,
+       volume = {802},
+        pages = {89-96},
+          doi = {10.1016/j.nima.2015.08.061},
+archivePrefix = {arXiv},
+       eprint = {1509.08624},
+ primaryClass = {astro-ph.IM},
+      adsurl = {https://ui.adsabs.harvard.edu/abs/2015NIMPA.802...89B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{LOFAR,
+       author = {{Schellart}, P. and {Nelles}, A. and {Buitink}, S. and {Corstanje}, A. and
+         {Enriquez}, J.~E. and {Falcke}, H. and {Frieswijk}, W. and {H{\"o}rand
+        el}, J.~R. and {Horneffer}, A. and {James}, C.~W. and {Krause}, M. and
+         {Mevius}, M. and {Scholten}, O. and {ter Veen}, S. and {Thoudam \emph{et al}}, S},
+        title = "{Detecting cosmic rays with the {LOFAR} radio telescope}",
+      journal = {\aap},
+     keywords = {astroparticle physics, methods: data analysis, instrumentation: interferometers, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - High Energy Astrophysical Phenomena},
+         year = 2013,
+        month = dec,
+       volume = {560},
+          eid = {A98},
+        pages = {A98},
+          doi = {10.1051/0004-6361/201322683},
+archivePrefix = {arXiv},
+       eprint = {1311.1399},
+ primaryClass = {astro-ph.IM},
+      adsurl = {https://ui.adsabs.harvard.edu/abs/2013A\&A...560A..98S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+
+@ARTICLE{OVRO-LWA,
+       author = {{Monroe}, Ryan and {Romero Wolf}, Andres and {Hallinan}, Gregg and
+         {Nelles}, Anna and {Eastwood}, Michael and {Anderson}, Marin and
+         {D'Addario}, Larry and {Kocz}, Jonathon and {Wang}, Yuankun and
+         {Cody}, Devin and {Woody}, David and {Schinzel}, Frank and
+         {Taylor}, Greg and {Greenhill}, Lincoln and {Price}, Daniel},
+        title = "{Self-triggered radio detection and identification of cosmic air showers with the OVRO-LWA}",
+      journal = {Nuclear Instruments and Methods in Physics Research A},
+     keywords = {Cosmic ray, Self-trigger, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = 2020,
+        month = feb,
+       volume = {953},
+          eid = {163086},
+        pages = {163086},
+          doi = {10.1016/j.nima.2019.163086},
+archivePrefix = {arXiv},
+       eprint = {1907.10193},
+ primaryClass = {astro-ph.IM},
+      adsurl = {https://ui.adsabs.harvard.edu/abs/2020NIMPA.95363086M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{FRANK_BEACON,
+       author = {{Schr{\"o}der}, F.~G. and {Asch}, T. and {B{\"a}hren}, L. and
+         {Bl{\"u}mer}, J. and {Bozdog}, H. and {Falcke}, H. and {Haungs}, A. and
+         {Horneffer}, A. and {Huege}, T. and {Isar}, P.~G. and {Kr{\"o}mer}, O. and
+         {Nehls}, S.},
+        title = "{New method for the time calibration of an interferometric radio antenna array}",
+      journal = {Nuclear Instruments and Methods in Physics Research A},
+     keywords = {Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - High Energy Astrophysical Phenomena},
+         year = 2010,
+        month = apr,
+       volume = {615},
+       number = {3},
+        pages = {277-284},
+          doi = {10.1016/j.nima.2010.01.072},
+archivePrefix = {arXiv},
+       eprint = {1002.3775},
+ primaryClass = {astro-ph.IM},
+      adsurl = {https://ui.adsabs.harvard.edu/abs/2010NIMPA.615..277S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{LOFAR_BEACON,
+       author = {{Corstanje}, A. and {Buitink}, S. and {Enriquez}, J.~E. and
+         {Falcke}, H. and {H{\"o}randel}, J.~R. and {Krause}, M. and
+         {Nelles}, A. and {Rachen}, J.~P. and {Schellart}, P. and
+         {Scholten}, O. and {ter Veen}, S. and {Thoudam}, S. and
+         {Trinh}, T.~N.~G.},
+        title = "{Timing calibration and spectral cleaning of LOFAR time series data}",
+      journal = {\aap},
+     keywords = {instrumentation: interferometers, techniques: interferometric, site testing, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = 2016,
+        month = may,
+       volume = {590},
+          eid = {A41},
+        pages = {A41},
+          doi = {10.1051/0004-6361/201527809},
+archivePrefix = {arXiv},
+       eprint = {1603.08354},
+ primaryClass = {astro-ph.IM},
+      adsurl = {https://ui.adsabs.harvard.edu/abs/2016A\&A...590A..41C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+ @article{ReviewHuege,
+journal = "Physics Reports",
+volume = "620",
+pages = "1 - 52",
+year = "2016",
+issn = "0370-1573",
+doi = "https://doi.org/10.1016/j.physrep.2016.02.001",
+author = "Tim Huege",
+title = "Radio detection of cosmic ray air showers in the digital era",
+keywords = "High-energy cosmic rays, Radio emission, Extensive air showers",
+abstract = "In 1965 it was discovered that cosmic ray air showers emit impulsive radio signals at frequencies below 100 MHz. After a period of intense research in the 1960s and 1970s, however, interest in the detection technique faded almost completely. With the availability of powerful digital signal processing techniques, new attempts at measuring cosmic ray air showers via their radio emission were started at the beginning of the new millennium. Starting with modest, small-scale digital prototype setups, the field has evolved, matured and grown very significantly in the past decade. Todays second-generation digital radio detection experiments consist of up to hundreds of radio antennas or cover areas of up to 17 km2. We understand the physics of the radio emission in extensive air showers in detail and have developed analysis strategies to accurately derive from radio signals parameters which are related to the astrophysics of the primary cosmic ray particles, in particular their energy, arrival direction and estimators for their mass. In parallel to these successes, limitations inherent in the physics of the radio signals have also become increasingly clear. In this article, we review the progress of the past decade and the current state of the field, discuss the current paradigm of the radio emission physics and present the experimental evidence supporting it. Finally, we discuss the potential for future applications of the radio detection technique to advance the field of cosmic ray physics."
+}
+
+@Article{SCHRODER20171,
+  author   = {Frank G. Schr{\"o}der},
+  journal  = {Progress in Particle and Nuclear Physics},
+  title    = {Radio detection of cosmic-ray air showers and high-energy neutrinos},
+  year     = {2017},
+  issn     = {0146-6410},
+  pages    = {1 - 68},
+  volume   = {93},
+  abstract = {In the last fifteen years radio detection made it back to the list of promising techniques for extensive air showers, firstly, due to the installation and successful operation of digital radio experiments and, secondly, due to the quantitative understanding of the radio emission from atmospheric particle cascades. The radio technique has an energy threshold of about 100PeV, which coincides with the energy at which a transition from the highest-energy galactic sources to the even more energetic extragalactic cosmic rays is assumed. Thus, radio detectors are particularly useful to study the highest-energy galactic particles and ultra-high-energy extragalactic particles of all types. Recent measurements by various antenna arrays like LOPES, CODALEMA, AERA, LOFAR, Tunka-Rex, and others have shown that radio measurements can compete in precision with other established techniques, in particular for the arrival direction, the energy, and the position of the shower maximum, which is one of the best estimators for the composition of the primary cosmic rays. The scientific potential of the radio technique seems to be maximum in combination with particle detectors, because this combination of complementary detectors can significantly increase the total accuracy for air-shower measurements. This increase in accuracy is crucial for a better separation of different primary particles, like gamma-ray photons, neutrinos, or different types of nuclei, because showers initiated by these particles differ in average depth of the shower maximum and in the ratio between the amplitude of the radio signal and the number of muons. In addition to air-shower measurements, the radio technique can be used to measure particle cascades in dense media, which is a promising technique for detection of ultra-high-energy neutrinos. Several pioneering experiments like ARA, ARIANNA, and ANITA are currently searching for the radio emission by neutrino-induced particle cascades in ice. In the next years these two sub-fields of radio detection of cascades in air and in dense media will likely merge, because several future projects aim at the simultaneous detection of both, high-energy cosmic-rays and neutrinos. SKA will search for neutrino and cosmic-ray initiated cascades in the lunar regolith and simultaneously provide unprecedented detail for air-shower measurements. Moreover, detectors with huge exposure like GRAND, SWORD or EVA are being considered to study the highest energy cosmic rays and neutrinos. This review provides an introduction to the physics of radio emission by particle cascades, an overview on the various experiments and their instrumental properties, and a summary of methods for reconstructing the most important air-shower properties from radio measurements. Finally, potential applications of the radio technique in high-energy astroparticle physics are discussed.},
+  doi      = {https://doi.org/10.1016/j.ppnp.2016.12.002},
+  keywords = {Radio detection, Antenna arrays, Cosmic rays, Extensive air showers, Neutrinos, Astroparticle physics},
+}
+
+
+@article{ALVAREZMUNIZ201429,
+title = "Radio pulses from ultra-high energy atmospheric showers as the superposition of {A}skaryan and geomagnetic mechanisms",
+journal = "Astroparticle Physics",
+volume = "59",
+pages = "29 - 38",
+year = "2014",
+issn = "0927-6505",
+doi = "https://doi.org/10.1016/j.astropartphys.2014.04.004",
+author = "Jaime Alvarez-Muñiz and Washington R. Carvalho and Harm Schoorlemmer and Enrique Zas",
+keywords = "High energy cosmic rays, Extensive air showers, Askaryan radio emission",
+abstract = "Radio emission in atmospheric showers is currently interpreted in terms of radiation due to the deviation of the charged particles in the magnetic field of the Earth and to the charge excess (Askaryan effect). Each of these mechanisms has a distinctive polarization. The complex signal patterns can be qualitatively explained as the interference (superposition) of the fields induced by each mechanism. In this work we explicitly and quantitatively test a simple phenomenological model based on this idea. The model is constructed by isolating each of the two components at the simulation level and by making use of approximate symmetries for each of the contributions separately. The results of the model are then checked against full ZHAireS Monte Carlo simulations of the electric field calculated from first principles. We show that the simple model describes radio emission at a few percent level in a wide range of shower-observer geometries and on a shower-by-shower basis. As a consequence, this approach provides a simple method to reduce the computing time needed to accurately predict the electric field of radio pulses emitted from air showers, with many practical applications in experimental situations of interest."
+}
+
+@Article{Nelles2015,
+  author        = {{Nelles}, A. and {Schellart}, P. and {Buitink}, S. and {Corstanje}, A. and {de Vries}, K.~D. and {Enriquez}, J.~E. and {Falcke}, H. and {Frieswijk}, W. and {H{\"o}randel}, J.~R. and {Scholten}, O. and {ter Veen}, S. and {Thoudam \emph{et al}}, S.},
+  journal       = {Astroparticle Physics},
+  title         = {{Measuring a Cherenkov ring in the radio emission from air showers at 110-190 MHz with LOFAR}},
+  year          = {2015},
+  month         = may,
+  pages         = {11-21},
+  volume        = {65},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2015APh....65...11N},
+  archiveprefix = {arXiv},
+  doi           = {10.1016/j.astropartphys.2014.11.006},
+  eprint        = {1411.6865},
+  keywords      = {Cosmic rays, Extensive air showers, Radio emission, LOFAR, Time-compression, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - High Energy Astrophysical Phenomena},
+  primaryclass  = {astro-ph.IM},
+}
+
+
+
+@Article{2014PhRvD..89e2002A,
+  author        = {{Aab \emph{et al}}, A.},
+  journal       = {\prd},
+  title         = {{Probing the radio emission from air showers with polarization measurements}},
+  year          = {2014},
+  month         = {Mar},
+  number        = {5},
+  pages         = {052002},
+  volume        = {89},
+  adsnote       = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl        = {https://ui.adsabs.harvard.edu/abs/2014PhRvD..89e2002A},
+  archiveprefix = {arXiv},
+  doi           = {10.1103/PhysRevD.89.052002},
+  eid           = {052002},
+  eprint        = {1402.3677},
+  keywords      = {96.50.sb, 96.60.Tf, 07.57.Kp, Composition energy spectra and interactions, Solar electromagnetic emission, Bolometers, infrared submillimeter wave microwave and radiowave receivers and detectors, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Instrumentation and Methods for Astrophysics},
+  primaryclass  = {astro-ph.HE},
+}
+
+
+
+@ARTICLE{2014APh....59...29A,
+       author = {{Alvarez-Mu{\~n}iz}, Jaime and {Carvalho}, Washington R. and
+         {Schoorlemmer}, Harm and {Zas}, Enrique},
+        title = "{Radio pulses from ultra-high energy atmospheric showers as the superposition of Askaryan and geomagnetic mechanisms}",
+      journal = {Astroparticle Physics},
+     keywords = {Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2014",
+        month = "Jul",
+       volume = {59},
+        pages = {29-38},
+          doi = {10.1016/j.astropartphys.2014.04.004},
+archivePrefix = {arXiv},
+       eprint = {1402.3504},
+ primaryClass = {astro-ph.HE},
+      adsurl = {https://ui.adsabs.harvard.edu/abs/2014APh....59...29A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{2011PhRvL.107f1101D,
+       author = {{de Vries}, K.~D. and {van den Berg}, A.~M. and {Scholten}, O. and
+         {Werner}, K.},
+        title = "{Coherent Cherenkov Radiation from Cosmic-Ray-Induced Air Showers}",
+      journal = {\prl},
+     keywords = {96.50.sd, 41.60.Bq, 95.30.Gv, 95.55.Vj, Extensive air showers, Cherenkov radiation, Radiation mechanisms, polarization, Neutrino muon pion and other elementary particle detectors, cosmic ray detectors, Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2011",
+        month = "Aug",
+       volume = {107},
+       number = {6},
+          eid = {061101},
+        pages = {061101},
+          doi = {10.1103/PhysRevLett.107.061101},
+archivePrefix = {arXiv},
+       eprint = {1107.0665},
+ primaryClass = {astro-ph.HE},
+      adsurl = {https://ui.adsabs.harvard.edu/abs/2011PhRvL.107f1101D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@misc{1508.03465,
+Author = {T. Huege and J. D. Bray and S. Buitink and R. Dallier and R. D. Ekers and H. Falcke and A. Haungs and C. W. James and L. Martin and B. Revenu and O. Scholten and F. G. Schröder and A. Zilles},
+Title = {High-precision measurements of extensive air showers with the SKA},
+Year = {2015},
+publisher={Proceedings of the 34th ICRC, The Hague, The Netherlands, PoS(ICRC2015)309},
+Eprint = {arXiv:1508.03465},
+}
+
+@article{SCHOORLEMMER201632,
+title = "Energy and flux measurements of ultra-high energy cosmic rays observed during the first ANITA flight",
+journal = "Astroparticle Physics",
+volume = "77",
+pages = "32 - 43",
+year = "2016",
+issn = "0927-6505",
+doi = "https://doi.org/10.1016/j.astropartphys.2016.01.001",
+author = "H. Schoorlemmer and K. Belov and A. Romero-Wolf and D. Garcia-Fernandez and V. Bugaev and S.A. Wissel and P. Allison and J. Alvarez-Mu{\~n}iz and S.W. Barwick and J.J. Beatty and D.Z. Besson and W.R. Binns and W.R. Carvalho Jr. and C. Chen and P. Chen and J.M. Clem and A. Connolly and P.F. Dowkontt and M.A. DuVernois and R.C. Field and D. Goldstein and P.W. Gorham and C. Hast and T. Huege and C.L. Heber and S. Hoover and M.H. Israel and A. Javaid and J. Kowalski and J. Lam and J.G. Learned and J.T. Link and E. Lusczek and S. Matsuno and B.C. Mercurio and C. Miki and P. Mioinovi and K. Mulrey and J. Nam and C.J. Naudet and J. Ng and R.J. Nichol and K. Palladino and B.F. Rauch and J. Roberts and K. Reil and B. Rotter and M. Rosen and L. Ruckman and D. Saltzberg and D. Seckel and D. Urdaneta and G.S. Varner and A.G. Vieregg and D. Walz and F. Wu and E. Zas",
+keywords = "Cosmic rays, Air shower, Radio detection",
+abstract = "The first flight of the Antarctic Impulsive Transient Antenna (ANITA) experiment recorded 16 radio signals that were emitted by cosmic-ray induced air showers. The dominant contribution to the radiation comes from the deflection of positrons and electrons in the geomagnetic field, which is beamed in the direction of motion of the air shower. For 14 of these events, this radiation is reflected from the ice and subsequently detected by the ANITA experiment at a flight altitude of 36km. In this paper, we estimate the energy of the 14 individual events and find that the mean energy of the cosmic-ray sample is 2.9 EeV, which is significantly lower than the previous estimate. By simulating the ANITA flight, we calculate its exposure for ultra-high energy cosmic rays. We estimate for the first time the cosmic-ray flux derived only from radio observations and find agreement with measurements performed at other observatories. In addition, we find that the ANITA data set is consistent with Monte Carlo simulations for the total number of observed events and with the properties of those events."
+}
+
+@ARTICLE{Interferomtry_Romero-Wolf,
+author={Romero-Wolf, A. and Hoover, S. and Vieregg, A.G. and Gorham, P.W. and Allison, P. and Barwick, S.W. and Baughman, B.M. and Beatty, J.J. and Belov, K. and Besson, D.Z. and Bevan, S. and Binns, W.R. and Chen, C. and Chen, P. and Clem, J.M. and Connolly, A. and Detrixhe, M. and De Marco, D. and Dowkontt, P.F. and Duvernois, M. and Goldstein, D. and Grashorn, E.W. and Hill, B. and Huang, M. and Israel, M.H. and Javaid, A. and Kowalski, J. and Learned, J. and Liewer, K.M. and Matsuno, S. and Mercurio, B.C. and Miki, C. and Mottram, M. and Nam, J. and Naudet, C.J. and Nichol, R.J. and Palladino, K. and Ruckman, L. and Saltzberg, D. and Seckel, D. and Shang, R.Y. and Stockham, J. and Stockham, M. and Varner, G.S. and Wang, Y.},
+title={An interferometric analysis method for radio impulses from ultra-high energy particle showers},
+journal={Astroparticle Physics},
+year={2015},
+volume={60},
+pages={72-85},
+doi={10.1016/j.astropartphys.2014.06.006},
+document_type={Article},
+source={Scopus},
+}
+
+@article{CoherenDeVries,
+  title = {Coherent Cherenkov Radiation from Cosmic-Ray-Induced Air Showers},
+  author = {de Vries, K. D. and van den Berg, A. M. and Scholten, O. and Werner, K.},
+  journal = {Phys. Rev. Lett.},
+  volume = {107},
+  issue = {6},
+  pages = {061101},
+  numpages = {5},
+  year = {2011},
+  month = {Aug},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.107.061101},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.107.061101}
+}
+
+@ARTICLE{ZHAireS,
+author={Alvarez-Muniz, J. and Carvalho Jr., W.R. and Zas, E.},
+title={Monte {C}arlo simulations of radio pulses in atmospheric showers using {ZHAireS}},
+journal={Astroparticle Physics},
+year={2012},
+volume={35},
+number={6},
+pages={325-341},
+doi={10.1016/j.astropartphys.2011.10.005},
+document_type={Article},
+source={Scopus},
+}
+
+@ARTICLE{NellesParameter,
+author={Nelles, A. and Buitink, S. and Falcke, H. and H{\"o}randel, J.R. and Huege, T. and Schellart, P.},
+title={A parameterization for the radio emission of air showers as predicted by CoREAS simulations and applied to LOFAR measurements},
+journal={Astroparticle Physics},
+year={2015},
+volume={60},
+pages={13-24},
+doi={10.1016/j.astropartphys.2014.05.001},
+document_type={Article},
+source={Scopus},
+}
+
+@ARTICLE{2018JCAP...10..026A,
+       author = {{Aab \emph{et al}}, A.},
+        title = "{Observation of inclined EeV air showers with the radio detector of the Pierre Auger Observatory}",
+      journal = {\jcap},
+     keywords = {Astrophysics - Instrumentation and Methods for Astrophysics, High Energy Physics - Experiment},
+         year = 2018,
+        month = oct,
+       volume = {2018},
+       number = {10},
+          eid = {026},
+        pages = {026},
+          doi = {10.1088/1475-7516/2018/10/026},
+archivePrefix = {arXiv},
+       eprint = {1806.05386},
+ primaryClass = {astro-ph.IM},
+      adsurl = {https://ui.adsabs.harvard.edu/abs/2018JCAP...10..026A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{LOFARNATURE,
+	Abstract = {High-resolution radio measurements of air showers---cascades of secondary particles in the atmosphere initiated by cosmic rays---reveal that cosmic rays with energies of 1017--1017.5 electronvolts have a mixed composition, with light elements (protons and helium nuclei) making up 80 per cent of their mass.},
+	Author = {Buitink, S. and Corstanje, A. and Falcke, H. and H{\"o}randel, J. R. and Huege, T. and Nelles, A. and Rachen, J. P. and Rossetto, L. and Schellart, P. and Scholten, O. and ter Veen, S. and Thoudam, S. and Trinh (\emph{et al}), T. N. G.},
+	Da = {2016/03/01},
+	Date-Added = {2020-04-09 12:36:13 +0000},
+	Date-Modified = {2020-04-09 12:36:13 +0000},
+	Doi = {10.1038/nature16976},
+	Id = {Buitink2016},
+	Isbn = {1476-4687},
+	Journal = {Nature},
+	Number = {7592},
+	Pages = {70--73},
+	Title = {A large light-mass component of cosmic rays at 1017--1017.5 electronvolts from radio observations},
+	Ty = {JOUR},
+	Url = {https://doi.org/10.1038/nature16976},
+	Volume = {531},
+	Year = {2016},
+	Bdsk-Url-1 = {https://doi.org/10.1038/nature16976},
+	Bdsk-Url-2 = {http://dx.doi.org/10.1038/nature16976}}
+
+	
+@ARTICLE{2014PhRvD..90l2005A,
+       author = {{Aab \emph{et al}}, A.},
+        title = "{Depth of maximum of air-shower profiles at the Pierre Auger Observatory. I. Measurements at energies above 10$^{17.8}$ eV}",
+      journal = {\prd},
+     keywords = {96.50.S-, 96.50.sd, 98.70.Sa, Cosmic rays, Extensive air showers, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = 2014,
+        month = dec,
+       volume = {90},
+       number = {12},
+          eid = {122005},
+        pages = {122005},
+          doi = {10.1103/PhysRevD.90.122005},
+archivePrefix = {arXiv},
+       eprint = {1409.4809},
+ primaryClass = {astro-ph.HE},
+      adsurl = {https://ui.adsabs.harvard.edu/abs/2014PhRvD..90l2005A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+@ARTICLE{2020SCPMA..6319501A,
+       author = {{{\'A}lvarez-Mu{\~n}iz}, Jaime and {Alves Batista}, Rafael and
+         {Balagopal V.}, Aswathi and {Bolmont}, Julien and
+         {Bustamante}, Mauricio and {Carvalho}, Washington and
+         {Charrier}, Didier and {Cognard}, Isma{\"e}l and {Decoene}, Valentin and
+         {Denton}, Peter B. and {De Jong}, Sijbrand and {De Vries}, Krijn D. and
+         {Engel}, Ralph and {Fang}, Ke and {Finley}, Chad and {Gabici}, Stefano and
+         {Gou}, QuanBu and {Gu}, JunHua and {Gu{\'e}pin}, Claire and
+         {Hu}, HongBo and {Huang}, Yan and {Kotera}, Kumiko and {Le Coz}, Sand
+        ra and {Lenain}, Jean-Philippe and {L{\"u}}, GuoLiang and
+         {Martineau-Huynh}, Olivier and {Mostaf{\'a}}, Miguel and
+         {Mottez}, Fabrice and {Murase}, Kohta and {Niess}, Valentin and
+         {Oikonomou}, Foteini and {Pierog}, Tanguy and {Qian}, XiangLi and
+         {Qin}, Bo and {Ran}, Duan and {Renault-Tinacci}, Nicolas and
+         {Roth}, Markus and {Schr{\"o}der}, Frank G. and
+         {Sch{\"u}ssler}, Fabian and {Tasse}, Cyril and {Timmermans}, Charles and
+         {Tueros}, Mat{\'\i}as and {Wu}, XiangPing and {Zarka}, Philippe and
+         {Zech}, Andreas and {Zhang}, B. Theodore and {Zhang}, JianLi and
+         {Zhang}, Yi and {Zheng}, Qian and {Zilles}, Anne},
+        title = "{The Giant Radio Array for Neutrino Detection (GRAND): Science and design}",
+      journal = {Science China Physics, Mechanics, and Astronomy},
+     keywords = {radio telescopes, neutrinos in astronomical observations, cosmic rays in astronomical observations, radiowave radiation: sources, galactic and extragalactic, cosmic rays: galactic and extragalactic, Astrophysics - High Energy Astrophysical Phenomena, High Energy Physics - Experiment, High Energy Physics - Phenomenology},
+         year = 2020,
+        month = jan,
+       volume = {63},
+       number = {1},
+          eid = {219501},
+        pages = {219501},
+          doi = {10.1007/s11433-018-9385-7},
+archivePrefix = {arXiv},
+       eprint = {1810.09994},
+ primaryClass = {astro-ph.HE},
+      adsurl = {https://ui.adsabs.harvard.edu/abs/2020SCPMA..6319501A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{ SKA,
+	author = {{Huege, T.} and {Bray, J. D.} and {Buitink, S.} and {Butler, D.} and {Dallier, R.} and {Ekers, R. D.} and {En\ss{}lin, T.} and {Falcke, H.} and {Haungs, A.} and {James, C. W.} and {Martin, L.} and {Mitra, P.} and {Mulrey, K.} and {Nelles, A.} and {Revenu, B.} and {Scholten, O.} and {Schr\"oder, F. G.} and {Tingay, S.} and {Winchen, T.} and {Zilles, A.}},
+	title = {Ultimate precision in cosmic-ray radio detection - the {SKA}},
+	DOI= "10.1051/epjconf/201713502003",
+	url= "https://doi.org/10.1051/epjconf/201713502003",
+	journal = {EPJ Web Conf.},
+	year = 2017,
+	volume = 135,
+	pages = "02003",
+}
+
+@article{LOFAR_LIGHTNING,
+	Abstract = {Lightning is a dangerous yet poorly understood natural phenomenon. Lightning forms a network of plasma channels propagating away from the initiation point with both positively and negatively charged ends---called positive and negative leaders1. Negative leaders propagate in discrete steps, emitting copious radio pulses in the 30--300-megahertz frequency band2--8 that can be remotely sensed and imaged with high spatial and temporal resolution9--11. Positive leaders propagate more continuously and thus emit very little high-frequency radiation12. Radio emission from positive leaders has nevertheless been mapped13--15, and exhibits a pattern that is different from that of negative leaders11--13,16,17. Furthermore, it has been inferred that positive leaders can become transiently disconnected from negative leaders9,12,16,18--20, which may lead to current pulses that both reconnect positive leaders to negative leaders11,16,17,20--22 and cause multiple cloud-to-ground lightning events1. The disconnection process is thought to be due to negative differential resistance18, but this does not explain why the disconnections form primarily on positive leaders22, or why the current in cloud-to-ground lightning never goes to zero23. Indeed, it is still not understood how positive leaders emit radio-frequency radiation or why they behave differently from negative leaders. Here we report three-dimensional radio interferometric observations of lightning over the Netherlands with unprecedented spatiotemporal resolution. We find small plasma structures---which we call `needles'---that are the dominant source of radio emission from the positive leaders. These structures appear to drain charge from the leader, and are probably the reason why positive leaders disconnect from negative ones, and why cloud-to-ground lightning connects to the ground multiple times.},
+	Author = {Hare, B. M. and Scholten, O. and Dwyer, J. and Trinh, T. N. G. and Buitink, S. and ter Veen, S. and Bonardi, A. and Corstanje, A. and Falcke, H. and H{\"o}randel, J. R. and Huege, T. and Mitra, P. and Mulrey, K. and Nelles, A. and Rachen, J. P. and Rossetto, L. and Schellart, P. and Winchen \emph{et al}, T.},
+	Da = {2019/04/01},
+	Date-Added = {2020-05-26 12:10:54 +0000},
+	Date-Modified = {2020-05-26 12:10:54 +0000},
+	Doi = {10.1038/s41586-019-1086-6},
+	Id = {Hare2019},
+	Isbn = {1476-4687},
+	Journal = {Nature},
+	Number = {7752},
+	Pages = {360--363},
+	Title = {Needle-like structures discovered on positively charged lightning branches},
+	Ty = {JOUR},
+	Url = {https://doi.org/10.1038/s41586-019-1086-6},
+	Volume = {568},
+	Year = {2019},
+	Bdsk-Url-1 = {https://doi.org/10.1038/s41586-019-1086-6},
+	Bdsk-Url-2 = {http://dx.doi.org/10.1038/s41586-019-1086-6}}
+
+
+@article{ALVAREZMUNIZ201531,
+title = "Simulations of reflected radio signals from cosmic ray induced air showers",
+journal = "Astroparticle Physics",
+volume = "66",
+pages = "31 - 38",
+year = "2015",
+issn = "0927-6505",
+doi = "https://doi.org/10.1016/j.astropartphys.2014.12.005",
+author = "Jaime Alvarez-Muñiz and Washington R. Carvalho and Daniel García-Fernández and Harm Schoorlemmer and Enrique Zas",
+keywords = "Cosmic rays, Air shower, Radio detection",
+abstract = "We present the calculation of coherent radio pulses emitted by extensive air showers induced by ultra-high energy cosmic rays accounting for reflection on the Earth’s surface. Results have been obtained with a simulation program that calculates the contributions from shower particles after reflection at a surface plane. The properties of the radiation are discussed in detail emphasizing the effects of reflection. The shape of the frequency spectrum is shown to be closely related to the angle of the observer with respect to shower axis, becoming hardest in the Cherenkov direction. The intensity of the flux at a fixed observation angle is shown to scale with the square of the primary particle energy to very good accuracy indicating the coherent aspect of the emission. The simulation methods of this paper provide the foundations for energy reconstruction of experiments looking at the Earth from balloons and satellites. They can also be used in dedicated studies of existing and future experimental proposals."
+}
+
+@ARTICLE{2021EPJC...81..176A,
+       author = {{Apel}, W.~D. and {Arteaga-Vel{\'a}zquez}, J.~C. and {B{\"a}hren}, L. and {Bekk}, K. and {Bertaina}, M. and {Biermann}, P.~L. and {Bl{\"u}mer}, J. and {Bozdog}, H. and {Cantoni}, E. and {Chiavassa}, A. and {Daumiller}, K. and {de Souza}, V. and {di Pierro}, F. and {Doll}, P. and {Engel}, R. and {Falcke}, H. and {Fuchs}, B. and {Gemmeke}, H. and {Grupen}, C. and {Haungs}, A. and {Heck}, D. and {H{\"o}randel}, J.~R. and {Horneffer}, A. and {Huber}, D. and {Huege}, T. and {Isar}, P.~G. and {Kampert}, K. -H. and {Kang}, D. and {Kr{\"o}mer}, O. and {Kuijpers}, J. and {Link}, K. and {{\L}uczak}, P. and {Ludwig}, M. and {Mathes}, H.~J. and {Melissas}, M. and {Morello}, C. and {Nehls}, S. and {Oehlschl{\"a}ger}, J. and {Palmieri}, N. and {Pierog}, T. and {Rautenberg}, J. and {Rebel}, H. and {Roth}, M. and {R{\"u}hle}, C. and {Saftoiu}, A. and {Schieler}, H. and {Schmidt}, A. and {Schoo}, S. and {Schr{\"o}der}, F.~G. and {Sima}, O. and {Toma}, G. and {Trinchero}, G.~C. and {Weindl}, A. and {Wochele}, J. and {Zabierowski}, J. and {Zensus}, J.~A. and {Lopes Collaboration}},
+        title = "{Final results of the LOPES radio interferometer for cosmic-ray air showers}",
+      journal = {European Physical Journal C},
+     keywords = {Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = 2021,
+        month = feb,
+       volume = {81},
+       number = {2},
+          eid = {176},
+        pages = {176},
+          doi = {10.1140/epjc/s10052-021-08912-4},
+archivePrefix = {arXiv},
+       eprint = {2102.03928},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2021EPJC...81..176A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{NIGL,
+       author = {{Nigl}, A. and {Apel}, W.~D. and {Arteaga}, J.~C. and {Asch}, T. and {Auffenberg}, J. and {Badea}, F. and {B{\"a}hren}, L. and {Bekk}, K. and {Bertaina}, M. and {Biermann}, P.~L. and {Bl{\"u}mer}, J. and {Bozdog}, H. and {Brancus}, I.~M. and {Br{\"u}ggemann}, M. and {Buchholz}, P. and {Buitink}, S. and {Butcher}, H. and {Cantoni}, E. and {Chiavassa}, A. and {Cossavella}, F. and {Daumiller}, K. and {de Souza}, V. and {di Pierro}, F. and {Doll}, P. and {Engel}, R. and {Falcke}, H. and {Gemmeke}, H. and {Ghia}, P.~L. and {Glasstetter}, R. and {Grupen}, C. and {Haungs}, A. and {Heck}, D. and {H{\"o}randel}, J.~R. and {Horneffer}, A. and {Huege}, T. and {Isar}, P.~G. and {Kampert}, K. -H. and {Kickelbick}, D. and {Kolotaev}, Y. and {Kr{\"o}mer}, O. and {Kuijpers}, J. and {Lafebre}, S. and {{\L}uczak}, P. and {Manewald}, M. and {Mathes}, H.~J. and {Mayer}, H.~J. and {Meurer}, C. and {Mitrica}, B. and {Morello}, C. and {Navarra}, G. and {Nehls}, S. and {Oehlschl{\"a}ger}, J. and {Ostapchenko}, S. and {Over}, S. and {Petcu}, M. and {Pierog}, T. and {Rautenberg}, J. and {Rebel}, H. and {Roth}, M. and {Saftoiu}, A. and {Schieler}, H. and {Schmidt}, A. and {Schr{\"o}der}, F. and {Sima}, O. and {Singh}, K. and {St{\"u}mpert}, M. and {Toma}, G. and {Trinchero}, G.~C. and {Ulrich}, H. and {van Buren}, J. and {Walkowiak}, W. and {Weindl}, A. and {Wochele}, J. and {Zabierowski}, J. and {Zensus}, J.~A.},
+        title = "{Direction identification in radio images of cosmic-ray air showers detected with LOPES and KASCADE}",
+      journal = {\aap},
+     keywords = {acceleration of particles, elementary particles, radiation mechanisms: non-thermal, instrumentation: detectors, methods: observational, techniques: image processing, Astrophysics},
+         year = 2008,
+        month = aug,
+       volume = {487},
+       number = {2},
+        pages = {781-788},
+          doi = {10.1051/0004-6361:20079218},
+archivePrefix = {arXiv},
+       eprint = {0809.2742},
+ primaryClass = {astro-ph},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{WAVEFRONT,
+       author = {{Apel}, W.~D. and {Arteaga-Vel{\'a}zquez}, J.~C. and {B{\"a}hren}, L. and {Bekk}, K. and {Bertaina}, M. and {Biermann}, P.~L. and {Bl{\"u}mer}, J. and {Bozdog}, H. and {Brancus}, I.~M. and {Cantoni}, E. and {Chiavassa}, A. and {Daumiller}, K. and {de Souza}, V. and {Di Pierro}, F. and {Doll}, P. and {Engel}, R. and {Falcke}, H. and {Fuchs}, B. and {Gemmeke}, H. and {Grupen}, C. and {Haungs}, A. and {Heck}, D. and {H{\"o}randel}, J.~R. and {Horneffer}, A. and {Huber}, D. and {Huege}, T. and {Isar}, P.~G. and {Kampert}, K. -H. and {Kang}, D. and {Kr{\"o}mer}, O. and {Kuijpers}, J. and {Link}, K. and {{\L}uczak}, P. and {Ludwig}, M. and {Mathes}, H.~J. and {Melissas}, M. and {Morello}, C. and {Oehlschl{\"a}ger}, J. and {Palmieri}, N. and {Pierog}, T. and {Rautenberg}, J. and {Rebel}, H. and {Roth}, M. and {R{\"u}hle}, C. and {Saftoiu}, A. and {Schieler}, H. and {Schmidt}, A. and {Schoo}, S. and {Schr{\"o}der}, F.~G. and {Sima}, O. and {Toma}, G. and {Trinchero}, G.~C. and {Weindl}, A. and {Wochele}, J. and {Zabierowski}, J. and {Zensus}, J.~A.},
+        title = "{The wavefront of the radio signal emitted by cosmic ray air showers}",
+      journal = {\jcap},
+     keywords = {High Energy Physics - Experiment, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = 2014,
+        month = sep,
+       volume = {2014},
+       number = {9},
+          eid = {025},
+        pages = {025},
+          doi = {10.1088/1475-7516/2014/09/025},
+archivePrefix = {arXiv},
+       eprint = {1404.3283},
+ primaryClass = {hep-ex},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{Schl_ter_2021,
+	doi = {10.1088/1748-0221/16/07/p07048},
+	url = {https://doi.org/10.1088/1748-0221/16/07/p07048},
+	year = 2021,
+	month = {jul},
+	publisher = {{IOP} Publishing},
+	volume = {16},
+	number = {07},
+	pages = {P07048},
+	author = {F. Schlüter and T. Huege},
+	title = {Expected performance of air-shower measurements with the radio-interferometric technique},
+	journal = {Journal of Instrumentation},
+	abstract = {Interferometric measurements with arrays of radio antennas are a powerful and widely used technique in astronomy. Recently, this technique has been revisited for the reconstruction of extensive air showers [1]. This “radio-interferometric technique” exploits the coherence in the radio emission emitted by billions of secondary shower particles to reconstruct the shower parameters, in particular the shower axis and depth of the shower maximum X max. The accuracy previously demonstrated on simulations with an idealized detector is very promising. The prospect of an accurate X max measurement for inclined air showers combined with measurements of the electromagnetic energy (also with radio antennas) and the muonic shower content (via ground particle detectors) is very intriguing as it would provide a high sensitivity to the mass of cosmic rays, key information to study their origin. In this article we evaluate the potential of interferometric X max measurements using (simulated) inclined air showers with sparse antenna arrays under realistic conditions. To determine prerequisites for the application of the radio-interferometric technique with various antenna arrays, the influence of inaccuracies in the time synchronisation between antennas and its inter-dependency with the antenna density is investigated in detail. We find a strong correlation between the antenna multiplicity (per event) and the maximum acceptable time jitter, i.e., inaccuracy in the time synchronisation. For data recorded with a time synchronisation accurate to within 1  ns in the commonly used frequency band of 30  MHz to 80  MHz, an antenna multiplicity of >50 is needed to achieve an X max resolution of   g cm−2. For data recorded with 2  ns accuracy, already ≳ 200 antennas are needed to achieve this X max resolution. Furthermore, we find no advantage reconstructing X max from data simulated at higher observation frequencies, i.e., up to several hundred MHz. Finally, we provide a generalisation of our results from very inclined air showers to vertical geometries.}
+}
+
+@Article{ALLAN1966,
+  author  = {H. R. ALLAN and J. K. JONES},
+  journal = {Nature},
+  title   = {Radio Pulses from Extensive Air Showers},
+  year    = {1966},
+  issn    = {0028-0836},
+  pages   = {129-131},
+  volume  = {212},
+  doi     = {10.1038/212129a0},
+}
+
+@Misc{atmocal,
+  url = {https://gitlab.com/harmscho/AtmosphereCal},
+}
+
+@Article{Grebe2013,
+  author    = {S. Grebe and Pierre Auger Collaboration},
+  title     = {Spectral index analysis of the data from the Auger Engineering Radio Array},
+  year      = {2013},
+  issn      = {0094-243X},
+  booktitle = {{AIP} Conference Proceedings},
+  doi       = {10.1063/1.4807524},
+  publisher = {{AIP}},
+}
+
+@Article{Riehn2020,
+  author    = {Riehn, Felix and Engel, Ralph and Fedynitch, Anatoli and Gaisser, Thomas K. and Stanev, Todor},
+  journal   = {Phys. Rev. D},
+  title     = {Hadronic interaction model sibyll 2.3d and extensive air showers},
+  year      = {2020},
+  month     = {Sep},
+  pages     = {063002},
+  volume    = {102},
+  doi       = {10.1103/PhysRevD.102.063002},
+  issue     = {6},
+  numpages  = {28},
+  publisher = {American Physical Society},
+  url       = {https://link.aps.org/doi/10.1103/PhysRevD.102.063002},
+}
+
+@Article{Schlueter2023,
+  author    = {F. Schlüter and T. Huege},
+  journal   = {Journal of Cosmology and Astroparticle Physics},
+  title     = {Signal model and event reconstruction for the radio detection of inclined air showers},
+  year      = {2023},
+  month     = {jan},
+  number    = {01},
+  pages     = {008},
+  volume    = {2023},
+  doi       = {10.1088/1475-7516/2023/01/008},
+  publisher = {IOP Publishing},
+  url       = {https://dx.doi.org/10.1088/1475-7516/2023/01/008},
+}
+
+@Article{Apel2013,
+  author  = {Apel, W. and Arteaga, J. and Bähren, L. and Bekk, K. and Bertaina, Mario and Biermann, Peter and Blümer, Johannes and Bozdog, H. and Brancus, I. and Buchholz, P. and Cantoni, Elena Carla and Chiavassa, A. and Daumiller, K. and Souza, Vanet and Di Pierro, Federico and Doll, P. and Engel, R. and Falcke, H. and Finger, M. and Zensus, J. Anton},
+  journal = {Proceedings of the 32nd International Cosmic Ray Conference, ICRC 2011},
+  title   = {Mass sensitivity in the radio lateral distribution function},
+  year    = {2013},
+  month   = {07},
+  volume  = {3},
+  doi     = {10.7529/ICRC2011/V03/0309},
+}
+
+@Article{Schoorlemmer2021,
+  author    = {Harm Schoorlemmer and Washington R. Carvalho},
+  journal   = {The European Physical Journal C},
+  title     = {Radio interferometry applied to the observation of cosmic-rayinduced extensive air showers},
+  year      = {2021},
+  issn      = {1434-6044},
+  month     = {dec},
+  number    = {12},
+  volume    = {81},
+  doi       = {10.1140/epjc/s10052-021-09925-9},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Mulrey2021,
+  author    = {Katharine Mulrey and Stijn Buitink and Arthur Corstanje and Heino Falcke and Tim Huege and Pragati Mitra and Anna Nelles and Hershal Pandya and Olaf Scholten and Satyendra Thoudam and Tobias Winchen},
+  title     = {On the cosmic-ray energy scale of theLOFAR radio telescope},
+  year      = {2021},
+  month     = {jul},
+  booktitle = {Proceedings of 37th International Cosmic Ray Conference {\textemdash} {PoS}({ICRC}2021)},
+  doi       = {10.22323/1.395.0371},
+  publisher = {Sissa Medialab},
+}
+
+@Article{Huege2014,
+  author = {Tim Huege},
+  title  = {The Renaissance of Radio Detection of Cosmic Rays},
+  year   = {2014},
+  issn   = {0103-9733},
+  pages  = {520-529},
+  volume = {44},
+  doi    = {10.1007/s13538-014-0226-6},
+}
+
+@Article{DEVRIES201323,
+  author   = {Krijn D. {de Vries} and Olaf Scholten and Klaus Werner},
+  journal  = {Astroparticle Physics},
+  title    = {The air shower maximum probed by Cherenkov effects from radio emission},
+  year     = {2013},
+  issn     = {0927-6505},
+  pages    = {23-27},
+  volume   = {45},
+  doi      = {https://doi.org/10.1016/j.astropartphys.2013.02.003},
+  keywords = {Radio detection, Air showers, Cosmic rays, Coherent radio emission, Geomagnetic Cherenkov radiation, Mass determination},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0927650513000297},
+}
+
+@Book{united1976u,
+  author    = {United States Committee on Extension to the Standard Atmosphere},
+  publisher = {National Oceanic and Amospheric [sic] Administration},
+  title     = {U.S. Standard Atmosphere, 1976},
+  year      = {1976},
+  series    = {NOAA - SIT 76-1562},
+  lccn      = {77601158},
+  url       = {https://books.google.nl/books?id=x488AAAAIAAJ},
+}
+
+@PhdThesis{Jansen:2016sjo,
+  author = {Jansen, Stefan},
+  school = {Nijmegen U.},
+  title  = {{Radio for the masses}: {Cosmic ray mass composition measurements in the radio frequency domain}},
+  year   = {2016},
+}
+
+@Article{Aab_2014,
+  author    = {A. Aab and P. Abreu and M. Aglietta and E.{\hspace{0.167em}}J. Ahn and I. Al Samarai and I.{\hspace{0.167em}}F.{\hspace{0.167em}}M. Albuquerque and I. Allekotte and J. Allen and P. Allison and A. Almela and J. Alvarez Castillo and J. Alvarez-Mu{\~{n}}iz and R. Alves Batista and M. Ambrosio and A. Aminaei and L. Anchordoqui and S. Andringa and C. Aramo and V.{\hspace{0.167em}}M. Aranda and F. Arqueros and H. Asorey and P. Assis and J. Aublin and M. Ave and M. Avenier and G. Avila and N. Awal and A.{\hspace{0.167em}}M. Badescu and K.{\hspace{0.167em}}B. Barber and J. Bäuml and C. Baus and J.{\hspace{0.167em}}J. Beatty and K.{\hspace{0.167em}}H. Becker and J.{\hspace{0.167em}}A. Bellido and C. Berat and M.{\hspace{0.167em}}E. Bertaina and X. Bertou and P.{\hspace{0.167em}}L. Biermann and P. Billoir and S. Blaess and M. Blanco and C. Bleve and H. Blümer and M. Boh{\'{a}}{\v{c}}ov{\'{a}} and D. Boncioli and C. Bonifazi and R. Bonino and N. Borodai and J. Brack and I. Brancus and A. Bridgeman and P. Brogueira and W.{\hspace{0.167em}}C. Brown and P. Buchholz and A. Bueno and S. Buitink and M. Buscemi and K.{\hspace{0.167em}}S. Caballero-Mora and B. Caccianiga and L. Caccianiga and M. Candusso and L. Caramete and R. Caruso and A. Castellina and G. Cataldi and L. Cazon and R. Cester and A.{\hspace{0.167em}}G. Chavez and A. Chiavassa and J.{\hspace{0.167em}}A. Chinellato and J. Chudoba and M. Cilmo and R.{\hspace{0.167em}}W. Clay and G. Cocciolo and R. Colalillo and A. Coleman and L. Collica and M.{\hspace{0.167em}}R. Coluccia and R. Concei{\c{c}}{\~{a}}o and F. Contreras and M.{\hspace{0.167em}}J. Cooper and A. Cordier and S. Coutu and C.{\hspace{0.167em}}E. Covault and J. Cronin and A. Curutiu and R. Dallier and B. Daniel and S. Dasso and K. Daumiller and B.{\hspace{0.167em}}R. Dawson and R.{\hspace{0.167em}}M. de Almeida and M. De Domenico and S.{\hspace{0.167em}}J. de Jong and J.{\hspace{0.167em}}R.{\hspace{0.167em}}T. de Mello Neto and I. De Mitri and J. de Oliveira and V. de Souza and L. del Peral and O. Deligny and H. Dembinski and N. Dhital and C. Di Giulio and A. Di Matteo and J.{\hspace{0.167em}}C. Diaz and M.{\hspace{0.167em}}L. D{\'{\i}}az Castro and F. Diogo and C. Dobrigkeit and W. Docters and J.{\hspace{0.167em}}C. D'Olivo and A. Dorofeev and Q. Dorosti Hasankiadeh and M.{\hspace{0.167em}}T. Dova and J. Ebr and R. Engel and M. Erdmann and M. Erfani and C.{\hspace{0.167em}}O. Escobar and J. Espadanal and A. Etchegoyen and P. Facal San Luis and H. Falcke and K. Fang and G. Farrar and A.{\hspace{0.167em}}C. Fauth and N. Fazzini and A.{\hspace{0.167em}}P. Ferguson and M. Fernandes and B. Fick and J.{\hspace{0.167em}}M. Figueira and A. Filevich and A. Filip{\v{c}}i{\v{c}} and B.{\hspace{0.167em}}D. Fox and O. Fratu and U. Fröhlich and B. Fuchs and T. Fujii and R. Gaior and B. Garc{\'{\i}}a and S.{\hspace{0.167em}}T. Garcia Roca and D. Garcia-Gamez and D. Garcia-Pinto and G. Garilli and A. Gascon Bravo and F. Gate and H. Gemmeke and P.{\hspace{0.167em}}L. Ghia and U. Giaccari and M. Giammarchi and M. Giller and C. Glaser and H. Glass and M. G{\'{o}}mez Berisso and P.{\hspace{0.167em}}F. G{\'{o}}mez Vitale and P. Gon{\c{c}}alves and J.{\hspace{0.167em}}G. Gonzalez and N. Gonz{\'{a}}lez and B. Gookin and J. Gordon and A. Gorgi and P. Gorham and P. Gouffon and S. Grebe and N. Griffith and A.{\hspace{0.167em}}F. Grillo and T.{\hspace{0.167em}}D. Grubb and F. Guarino and G.{\hspace{0.167em}}P. Guedes and M.{\hspace{0.167em}}R. Hampel and P. Hansen and D. Harari and T.{\hspace{0.167em}}A. Harrison and S. Hartmann and J.{\hspace{0.167em}}L. Harton and A. Haungs and T. Hebbeker and D. Heck and P. Heimann and A.{\hspace{0.167em}}E. Herve and G.{\hspace{0.167em}}C. Hill and C. Hojvat and N. Hollon and E. Holt and P. Homola and J.{\hspace{0.167em}}R. Hörandel and P. Horvath and M. Hrabovsk{\'{y}} and D. Huber and T. Huege and A. Insolia and P.{\hspace{0.167em}}G. Isar and I. Jandt and S. Jansen and C. Jarne and M. Josebachuili and A. Kääpä and O. Kambeitz and K.{\hspace{0.167em}}H. Kampert and P. Kasper and I. Katkov and B. K{\'{e}}gl and B. Keilhauer and A. Keivani and E. Kemp and R.{\hspace{0.167em}}M. Kieckhafer and H.{\hspace{0.167em}}O. Klages and M. Kleifges and J. Kleinfeller and R. Krause and N. Krohm and O. Krömer and D. Kruppke-Hansen and D. Kuempel and N. Kunka and D. LaHurd and L. Latronico and R. Lauer and M. Lauscher and P. Lautridou and S. Le Coz and M.{\hspace{0.167em}}S.{\hspace{0.167em}}A.{\hspace{0.167em}}B. Le{\~{a}}o and D. Lebrun and P. Lebrun and M.{\hspace{0.167em}}A. Leigui de Oliveira and A. Letessier-Selvon and I. Lhenry-Yvon and K. Link and R. L{\'{o}}pez and A. Lopez Agüera and K. Louedec and J. Lozano Bahilo and L. Lu and A. Lucero and M. Ludwig and M. Malacari and S. Maldera and M. Mallamaci and J. Maller and D. Mandat and P. Mantsch and A.{\hspace{0.167em}}G. Mariazzi and V. Marin and I.{\hspace{0.167em}}C. Mari{\c{s}} and G. Marsella and D. Martello and L. Martin and H. Martinez and O. Mart{\'{\i}}nez Bravo and D. Martraire and J.{\hspace{0.167em}}J. Mas{\'{\i}}as Meza and H.{\hspace{0.167em}}J. Mathes and S. Mathys and J. Matthews and J.{\hspace{0.167em}}A.{\hspace{0.167em}}J. Matthews and G. Matthiae and D. Maurel and D. Maurizio and E. Mayotte and P.{\hspace{0.167em}}O. Mazur and C. Medina and G. Medina-Tanco and R. Meissner and M. Melissas and D. Melo and A. Menshikov and S. Messina and R. Meyhandan and S. Mi{\'{c}}anovi{\'{c}} and M.{\hspace{0.167em}}I. Micheletti and L. Middendorf and I.{\hspace{0.167em}}A. Minaya and L. Miramonti and B. Mitrica and L. Molina-Bueno and S. Mollerach and M. Monasor and D. Monnier Ragaigne and F. Montanet and C. Morello and M. Mostaf{\'{a}} and C.{\hspace{0.167em}}A. Moura and M.{\hspace{0.167em}}A. Muller and G. Müller and S. Müller and M. Münchmeyer and R. Mussa and G. Navarra and S. Navas and P. Necesal and L. Nellen and A. Nelles and J. Neuser and P. Nguyen and M. Niechciol and L. Niemietz and T. Niggemann and D. Nitz and D. Nosek and V. Novotny and L. No{\v{z}}ka and L. Ochilo and A. Olinto and M. Oliveira and N. Pacheco and D. Pakk Selmi-Dei and M. Palatka and J. Pallotta and N. Palmieri and P. Papenbreer and G. Parente and A. Parra and T. Paul and M. Pech and J. Pȩkala and R. Pelayo and I.{\hspace{0.167em}}M. Pepe and L. Perrone and E. Petermann and C. Peters and S. Petrera and Y. Petrov and J. Phuntsok and R. Piegaia and T. Pierog and P. Pieroni and M. Pimenta and V. Pirronello and M. Platino and M. Plum and A. Porcelli and C. Porowski and R.{\hspace{0.167em}}R. Prado and P. Privitera and M. Prouza and V. Purrello and E.{\hspace{0.167em}}J. Quel and S. Querchfeld and S. Quinn and J. Rautenberg and O. Ravel and D. Ravignani and B. Revenu and J. Ridky and S. Riggi and M. Risse and P. Ristori and V. Rizi and W. Rodrigues de Carvalho and I. Rodriguez Cabo and G. Rodriguez Fernandez and J. Rodriguez Rojo and M.{\hspace{0.167em}}D. Rodr{\'{\i}}guez-Fr{\'{\i}}as and D. Rogozin and G. Ros and J. Rosado and T. Rossler and M. Roth and E. Roulet and A.{\hspace{0.167em}}C. Rovero and S.{\hspace{0.167em}}J. Saffi and A. Saftoiu and F. Salamida and H. Salazar and A. Saleh and F. Salesa Greus and G. Salina and F. S{\'{a}}nchez and P. Sanchez-Lucas and C.{\hspace{0.167em}}E. Santo and E. Santos and E.{\hspace{0.167em}}M. Santos and F. Sarazin and B. Sarkar and R. Sarmento and R. Sato and N. Scharf and V. Scherini and H. Schieler and P. Schiffer and D. Schmidt and O. Scholten and H. Schoorlemmer and P. Schov{\'{a}}nek and A. Schulz and J. Schulz and J. Schumacher and S.{\hspace{0.167em}}J. Sciutto and A. Segreto and M. Settimo and A. Shadkam and R.{\hspace{0.167em}}C. Shellard and I. Sidelnik and G. Sigl and O. Sima and A. {\'{S}}mia{\l}kowski and R. {\v{S}}m{\'{\i}}da and G.{\hspace{0.167em}}R. Snow and P. Sommers and J. Sorokin and R. Squartini and Y.{\hspace{0.167em}}N. Srivastava and S. Stani{\v{c}} and J. Stapleton and J. Stasielak and M. Stephan and A. Stutz and F. Suarez and T. Suomijärvi and A.{\hspace{0.167em}}D. Supanitsky and M.{\hspace{0.167em}}S. Sutherland and J. Swain and Z. Szadkowski and M. Szuba and O.{\hspace{0.167em}}A. Taborda and A. Tapia and M. Tartare and A. Tepe and V.{\hspace{0.167em}}M. Theodoro and C. Timmermans and C.{\hspace{0.167em}}J. Todero Peixoto and G. Toma and L. Tomankova and B. Tom{\'{e}} and A. Tonachini and G. Torralba Elipe and D. Torres Machado and P. Travnicek and E. Trovato and M. Tueros and R. Ulrich and M. Unger and M. Urban and J.{\hspace{0.167em}}F. Vald{\'{e}}s Galicia and I. Vali{\~{n}}o and L. Valore and G. van Aar and P. van Bodegom and A.{\hspace{0.167em}}M. van den Berg and S. van Velzen and A. van Vliet and E. Varela and B. Vargas C{\'{a}}rdenas and G. Varner and J.{\hspace{0.167em}}R. V{\'{a}}zquez and R.{\hspace{0.167em}}A. V{\'{a}}zquez and D. Veberi{\v{c}} and V. Verzi and J. Vicha and M. Videla and L. Villase{\~{n}}or and B. Vlcek and S. Vorobiov and H. Wahlberg and O. Wainberg and D. Walz and A.{\hspace{0.167em}}A. Watson and M. Weber and K. Weidenhaupt and A. Weindl and F. Werner and A. Widom and L. Wiencke and B. Wilczy{\'{n}}ska and H. Wilczy{\'{n}}ski and M. Will and C. Williams and T. Winchen and D. Wittkowski and B. Wundheiler and S. Wykes and T. Yamamoto and T. Yapici and G. Yuan and A. Yushkov and B. Zamorano and E. Zas and D. Zavrtanik and M. Zavrtanik and I. Zaw and A. Zepeda and J. Zhou and Y. Zhu and M. Zimbres Silva and M. Ziolkowski and F. Zuccarello and},
+  journal   = {Physical Review D},
+  title     = {Depth of maximum of air-shower profiles at the Pierre Auger Observatory. I. Measurements at energies above$\less$mml:math xmlns:mml="http://www.w3.org/1998/Math/{MathML}" display="inline"$\greater$$\less$mml:mrow$\greater$$\less$mml:mn$\greater$1$\less$/mml:mn$\greater$$\less$mml:msup$\greater$$\less$mml:mrow$\greater$$\less$mml:mn$\greater$0$\less$/mml:mn$\greater$$\less$/mml:mrow$\greater$$\less$mml:mrow$\greater$$\less$mml:mn$\greater$17.8$\less$/mml:mn$\greater$$\less$/mml:mrow$\greater$$\less$/mml:msup$\greater$$\less$mml:mtext$\greater${\hspace{0.167em}}{\hspace{0.167em}}$\less$/mml:mtext$\greater$$\less$mml:mi$\greater${eV}$\less$/mml:mi$\greater$$\less$/mml:mrow$\greater$$\less$/mml:math$\greater$},
+  year      = {2014},
+  month     = {dec},
+  number    = {12},
+  pages     = {122005},
+  volume    = {90},
+  doi       = {10.1103/physrevd.90.122005},
+  publisher = {American Physical Society ({APS})},
+  url       = {https://doi.org/10.1103%2Fphysrevd.90.122005},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
